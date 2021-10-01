@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**Dieghonm/Dieghonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Oi, sou Diegho, Estudante de Progamação.
 
 <img align="right" alt="GIF" src=https://media0.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif width="400px" />
@@ -22,11 +5,11 @@ Here are some ideas to get you started:
 - :brazil: Sou natural do Rio de Janeiro
 - 👩🏽‍🎓 Estudante da <a href="https://www.betrybe.com/" target="_blank"><strong>Trybe</strong></a> 🚀
 - 📚 Aprendendo desenvovlimento back-end com **NodeJS** e **MongoDB**;
-- 🧠 Iniciando os estudos com **React Native**;
+- 🧠 Iniciando os estudos em **Java**;
 - 🔎 Busca constante por conhecimento;
 
 ### Entre em contato
-<a href="https://www.linkedin.com/in/ldieghonm/" target="_blank">
+<a href="https://www.linkedin.com/in/dieghonm/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 
@@ -48,4 +31,5 @@ Here are some ideas to get you started:
   <img alt="mongoDb" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dieghonm&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dieghonm&theme=vue-dark&show_icons=true)
+
