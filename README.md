@@ -3,9 +3,13 @@
 <img align="right" alt="GIF" src=https://media0.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif width="400px" />
 
 - :brazil: Sou natural do Rio de Janeiro
-- 👩🏽‍🎓 Estudante da <a href="https://www.betrybe.com/" target="_blank"><strong>Trybe</strong></a> 🚀
+-  Estudante da <a href="https://www.betrybe.com/" target="_blank"><strong>Trybe</strong></a> 🚀
 - 📚 Aprendendo desenvovlimento back-end com **NodeJS** e **MongoDB**;
 - 🧠 Iniciando os estudos em **Java**;
+- 🔭 Estou aprendendo Heroku;
+- 🤔 Meus hobbies são Ler e Games Online;
+- 💼 Sou desenvolvedor Front-End (em busca de colocação) certificado pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
+- 📫 Envie email para **dieghonm@gmail.com**;
 - 🔎 Busca constante por conhecimento;
 
 ### Entre em contato
