@@ -4,7 +4,7 @@
 
 - :brazil: Sou natural do Rio de Janeiro
 -  Formado em programação web pela <a href="https://www.betrybe.com/" target="_blank"><strong>Trybe</strong></a> 🚀
-- 📚 Aprendendo desenvovlimento back-end com **NodeJS** e **MongoDB**;
+- 📚 Aprendendo desenvolvimento back-end com **NodeJS** e **MongoDB**;
 - 🧠 Iniciando os estudos em **Python**;
 - 🔭 Estou aprendendo Heroku;
 - 🤔 Meus hobbies são Ler e Games Online;
