@@ -4,10 +4,9 @@
 
 - :brazil: Sou natural do Rio de Janeiro
 -  Formado em programação web pela <a href="https://www.betrybe.com/" target="_blank"><strong>Trybe</strong></a> 🚀
-- 📚 Aprendendo desenvolvimento back-end com **NodeJS** e **MongoDB**;
+- 📚 Aprendendo desenvolvimento back-end com **Python** e **MySQL**;
 - 🧠 Iniciando os estudos em **Python**;
-- 🔭 Estou aprendendo Heroku;
-- 🤔 Meus hobbies são Ler e Games Online;
+- 🤔 Meus hobbies são lovros e Games Online;
 - 💼 Sou desenvolvedor Front-End (em busca de colocação) certificado pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 - 📫 Envie email para **dieghonm@gmail.com**;
 - 🔎 Busca constante por conhecimento;
