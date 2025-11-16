@@ -10,9 +10,16 @@
 - 📊 Em 2025, finalizei o curso de **Ciência de Dados** na **EBAC**.  
 - 🔎 Busco oportunidades de me desenvolver tanto na área de **dados** quanto em **frontend**.  
 - 🎮 No tempo livre gosto de ler e jogar online.  
-- 📫 Contato: **dieghonm@gmail.com**  
+- 📫 Contato: **dieghonm@gmail.com**
+
+- 
 
 ---
+
+<a href="[https://www.linkedin.com/in/dieghonm/](https://dieghonm.github.io/portfolio-anual/)" target="_blank">
+  Portfolio
+</a> 
+https://dieghonm.github.io/portfolio-anual/
 
 ### Entre em contato
 <a href="https://www.linkedin.com/in/dieghonm/" target="_blank">
