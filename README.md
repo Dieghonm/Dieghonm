@@ -1,34 +1,75 @@
-# Olá, eu sou o Diegho 👋  
+# 👋 Olá! Eu sou Diegho Neves
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="400px" />
 
-- 🌍 Sou do Rio de Janeiro, Brasil.  
-- 🎓 Formado em Administração pela UVA (2007).  
-- 🚀 Comecei a estudar programação em 2020 e concluí o curso de Desenvolvimento Web Full Stack pela **Trybe** em 2021.  
-- 👨‍💻 Em 2022, iniciei no mercado como **desenvolvedor Frontend** na RINGA e também como **instrutor de Frontend** na Trybe.  
-- 💼 Atualmente sou **programador full stack na Duolab**.  
-- 📊 Em 2025, finalizei o curso de **Ciência de Dados** na **EBAC**.  
-- 🔎 Busco oportunidades de me desenvolver tanto na área de **dados** quanto em **frontend**.  
-- 🎮 No tempo livre gosto de ler e jogar online.  
-- 📫 Contato: **dieghonm@gmail.com**
+## 💻 Desenvolvedor Full Stack com Expertise em Frontend
 
-- 
+Desenvolvedor full stack apaixonado por criar experiências de usuário excepcionais. Com sólida experiência em desenvolvimento frontend e competências em backend e ciência de dados, construo aplicações completas e escaláveis.
 
----
+### 🎯 Foco Principal
+- **Frontend Development**: React, JavaScript/TypeScript, CSS/TailwindCSS
+- **UX/UI**: Design responsivo, acessibilidade, performance
+- **Desenvolvimento Ágil**: Boas práticas, código limpo, testes
+
+### 🛠️ Stack Tecnológico
+
+**Frontend (Especialidade)**
+- ⚛️ React, Next.js, React Native
+- 💅 CSS3, Sass, TailwindCSS, Styled Components
+- 🎨 Figma, Design Systems
+- 📱 Desenvolvimento Mobile & Responsivo
+
+**Backend & Full Stack**
+- 🐍 Python (Django, Flask, FastAPI)
+- 🟢 Node.js, Express
+- 🗄️ PostgreSQL, MongoDB, MySQL
+- 🔌 REST APIs, GraphQL
+
+**Data Science & Analytics**
+- 📊 Python (Pandas, NumPy, Matplotlib)
+- 🤖 Machine Learning básico
+- 📈 Visualização de dados
+- 🧮 Análise exploratória
+
+**DevOps & Ferramentas**
+- 🐳 Docker
+- 🔧 Git, GitHub Actions
+- ☁️ Deploy (Vercel, Heroku, AWS)
+
+### 🌟 Projetos em Destaque
+
+#### [Eden-Map](https://github.com/Dieghonm/Eden-Map) 
+🗺️ Aplicação de mapeamento interativo com frontend moderno
+- **Tech**: React, JavaScript, APIs de geolocalização
+- **Features**: Interface responsiva, visualização de dados em tempo real
+
+#### [DataVision](https://github.com/Dieghonm/DataVision)
+📊 Plataforma de visualização e análise de dados
+- **Tech**: Python, Pandas, bibliotecas de visualização
+- **Features**: Dashboards interativos, análise exploratória
+
+#### [hit_finder](https://github.com/Dieghonm/hit_finder)
+🎵 Aplicação para descoberta e análise de músicas
+- **Tech**: JavaScript, APIs externas
+- **Features**: Interface intuitiva, integração com serviços de streaming
+
+### 📫 Vamos Conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegho-neves/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dieghonm@gmail.com)
 
 <a href="[https://www.linkedin.com/in/dieghonm/](https://dieghonm.github.io/portfolio-anual/)" target="_blank">
   Portfolio
 </a> 
-https://dieghonm.github.io/portfolio-anual/
+https://dieghonm.github.io/portfolio-anual/ 
 
-### Entre em contato
-<a href="https://www.linkedin.com/in/dieghonm/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
+📍 Rio de Janeiro, RJ - Brasil
 
-<a href="mailto:dieghonm@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>  
+---
+
+💡 **Aberto a oportunidades** em desenvolvimento frontend e full stack!
+
+⭐ Se gostou dos meus projetos, considere dar uma estrela nos repositórios!
 
 ---
 
