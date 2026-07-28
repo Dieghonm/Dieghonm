@@ -126,3 +126,8 @@ https://dieghonm.github.io/portfolio-anual/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieghonm&theme=vue-dark&show_icons=true&show_icons=true&layout=compact&card_width=443)
 </br>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dieghonm&theme=github_dark" alt="Diegho Moraes GitHub statistics" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dieghonm&theme=github_dark" alt="Most used languages" />
+</div>
