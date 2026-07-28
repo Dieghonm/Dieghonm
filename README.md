@@ -57,9 +57,6 @@ Desenvolvedor full stack com experiência end-to-end em produtos web e mobile �
 - **Tech**: Python, Pandas, Matplotlib, Streamlit
 - **Deploy**: [datavision-app.streamlit.app](https://datavision-app.streamlit.app)
 
-#### [BackBase](https://github.com/Dieghonm/BackBase) ⭐
-⚙️ Framework backend reutilizável em Python para acelerar desenvolvimento de APIs
-- **Tech**: Python, FastAPI, SQLAlchemy, JWT
 
 ### 📫 Vamos Conectar?
 
